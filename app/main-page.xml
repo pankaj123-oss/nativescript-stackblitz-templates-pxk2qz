@@ -1,0 +1,7 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onNavigatingTo">
+<ListView items="{{list}}">
+<ListView.itemTemplate>
+<Label text="{{tex}}" /> 
+</ListView.itemTemplate>
+</ListView>
+</Page>
